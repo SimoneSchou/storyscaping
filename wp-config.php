@@ -19,6 +19,8 @@
  * @package WordPress
  */
 
+//* sophies rettelse i forhold til installering af plugins*/
+define('WP_MEMORY_LIMIT', '256M');
 
 define('FS_METHOD', 'direct');
 // ** MySQL settings - You can get this info from your web host ** //
