@@ -1,7 +1,6 @@
-
 <?php
 /**
- * The base configuration for Storyscaping WordPress
+ * The base configuration for Storyscaping  Eksamen WordPress
  *
  * The wp-config.php creation script uses this file during the
  * installation. You don't have to use the web site, you can
