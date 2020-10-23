@@ -1,7 +1,7 @@
 
 <?php
 /**
- * The base configuration for WordPress
+ * The base configuration for Storyscaping WordPress
  *
  * The wp-config.php creation script uses this file during the
  * installation. You don't have to use the web site, you can
@@ -19,8 +19,7 @@
  * @package WordPress
  */
 
-//* sophies rettelse i forhold til installering af plugins*/
-define('WP_MEMORY_LIMIT', '256M');
+
 
 define('FS_METHOD', 'direct');
 // ** MySQL settings - You can get this info from your web host ** //
