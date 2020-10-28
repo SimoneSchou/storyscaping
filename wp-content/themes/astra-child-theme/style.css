@@ -11,3 +11,9 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  astrachild
 */
+
+
+.main-navigation{
+	font-family: raleway;
+	font-weight: bold;
+}
